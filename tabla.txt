@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+	
+table#tabla {
+    width: 100%;    
+    background-color: #FFFFFF;
+}
+		</style>
+	</head>
+
+	
+<body style="background-color:#293333">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+<h1 style="font-family:Courier"><mark>Tarea2: Tabla</mark></h1>
+<table border="1" style="width:65%" id="tabla">
+  <tr style="background-color:#808080 ">
+    <th style="font-size:135%">Nombre</th>
+    <th style="font-size:135%">Carnet</th>		
+    <th style="font-size:135%">Imagen</th>
+  </tr>
+  <tr>
+    <td>Joaquín Haroldo Arévalo Lacayo</td>
+    <td>201314725</td>		
+    <td><div align="center"><IMG SRC="dumbledore_party_hard_by_wernette-d34t6kq.gif"></div></td>
+  </tr>
+  
+</table>
+
+</body>
+</html>
